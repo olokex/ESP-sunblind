@@ -17,7 +17,7 @@ This is a part of the entire IoT smart home project. ESP controls sunblinds thro
 |2x Buttons             |TC-1212T 12x12x7.3mm                         |
 |Down stepper           |MINI-360 MP1484 (set to 5V to power up ESP)  |
 
-Motor is powered up by 9V, down stepper is used to drop voltage to 5V which powers up the ESP and from ESP is used 3.3V for button as input.
+Motor is powered by 9V, down stepper is used to drop voltage to 5V which powers up the ESP and from ESP is used 3.3V for button as input.
 Avoid using 5V for inputs ESP does NOT have protection.
 
 # API
